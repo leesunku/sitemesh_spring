@@ -9,5 +9,5 @@
 ##### 설명
 ##### http://localhost:8080 을 입력하면, /* 
 ##### (/는 controller로 지정된 java 파일을 찾아가는 것) 
-##### (*는 /index.html, /index, /aaa, /bbb 같이 /뒤에  '*' 모든 것을 의미)
+##### (\*는 /index.html, /index, /aaa, /bbb 같이 /뒤에  '*' 모든 것을 의미)
 ##### 를 sitemesh의 형태로 표현하게 하는 설정
