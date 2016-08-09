@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <decorators defaultdir="/decorators">
 	<excludes>
-		<pattern>/index</pattern>
+		<pattern>*.json</pattern>
 	</excludes>
 	<!-- excludes는 sitemesh를 사용하지 않는다는 의미 -->
 	
@@ -9,7 +9,7 @@
 		<pattern>/*</pattern>
 	</decorator>
 	<!-- /* 패턴으로 리턴되면, layout이라는 이름으로 지정한 페이지 페이아웃을 sitemesh 형태로 표현 -->
-	<decorator name = "layout" page = "/WEB-INF/layout/layout2.jsp">
+	<decorator name = "layout2" page = "/WEB-INF/layout/layout2.jsp">
 		<pattern>/web/*</pattern>
 	</decorator>
 </decorators>

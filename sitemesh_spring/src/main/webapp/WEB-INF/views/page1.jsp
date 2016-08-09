@@ -4,13 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>여긴 홈이고?</title>
-	<script type="text/javascript">
-		alert("head!!!!!");
-	</script>
+<title>여긴 페이지 2이고</title>
 </head>
 <body>
-	<p style="font-weight:900;font-size:32px;">CONTENTS</p>
-	<a href = "page1">페이지1로 이동</a>
+	<p style="font-weight:900;font-size:32px;">페이지 2</p>
 </body>
 </html>
